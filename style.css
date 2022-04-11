@@ -1,0 +1,47 @@
+button{
+    border-radius: 2em;
+}
+
+h1, h3{
+    text-align: center;
+}
+
+p{
+    text-indent: 6px;
+}
+
+ol{
+    list-style: none;
+}
+
+.linkStyle{
+    width: 90%;
+    margin: 0 25% 0 25%;
+}
+
+.box{
+    display: flex;
+}
+
+.desc{
+    text-align: center;
+}
+
+.imgSize{
+    height: 200px;
+    min-width: 250px;
+    width: 75%;
+    margin: 1em 10% 1em 10%;
+}
+
+.imgSize2{
+    width: 80%;
+    margin: 1em 10% 1em 10%;
+}
+
+.item{
+    margin: 1em;
+    width: 100%;
+    border-radius: 0.7em;
+    border: 1px solid gray;
+}
