@@ -1,0 +1,26 @@
+* {
+    text-align: center;
+}
+
+img{
+    padding: .7em;
+}
+
+.list-ul{
+    list-style-type: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.list-ul li{
+    padding: .5em;
+}
+
+.list-ol{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    list-style-type:"-";
+}
+
+.list-ol li{
+    text-align: left;
+    padding: .3em;
+}
